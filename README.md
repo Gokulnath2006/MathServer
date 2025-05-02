@@ -75,7 +75,7 @@ h1 {
 <div class="edge">
     <div class="box">
         <h1>power of a lamp filament </h1>
-        <h3>DHARSHENI K(24006589)</h3>
+        <h3>Gokul Nath R(212224230077)</h3>
         <form method="POST">
             {% csrf_token %}
             <div class="formelt">
@@ -135,7 +135,7 @@ urlpatterns = [
 ![alt text](<Screenshot 2025-04-29 201223.png>)
 
 ## HOMEPAGE:
-![alt text](<Screenshot 2025-04-29 200417.png>)
+![alt text](<Screenshot 2025-05-02 100819.png>)
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
